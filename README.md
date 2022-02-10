@@ -1,5 +1,8 @@
 # Module 1 project
 
+Build | Code Quality | Unity | [Git Inspector](using github.io option)
+------|----------|-------|--------------
+[![C/C++ CI - Build Status](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/c%20CI.yml/badge.svg)](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/c%20CI.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/cppcheck.yml) [![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/code%20q%20dynamic.yml/badge.svg)](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/code%20q%20dynamic.yml) [![CI-Coverage](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/gcov.yml/badge.svg)](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/gcov.yml)| [![Unit Testing - Unity](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/unity.yml/badge.svg)](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/unity.yml) | [![Contribution Check - Git Inspector](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/medisettisurendra517/M1_conversion_model/actions/workflows/gitinspector.yml)
 
 ## Folder structure:
 
